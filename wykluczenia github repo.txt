@@ -1,0 +1,1 @@
+/.env, /vendor/, /storage/logs/*, /bootstrap/cache/*.php, /node_modules/

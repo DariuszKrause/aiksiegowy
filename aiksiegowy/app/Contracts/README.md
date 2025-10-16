@@ -1,0 +1,1 @@
+# Contracts (ports) — interfejsy integracji
